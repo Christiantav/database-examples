@@ -1,5 +1,6 @@
 Tutorial Link:
 https://towardsdatascience.com/getting-started-with-apache-cassandra-and-python-81e00ccf17c9
+https://www.tutorialspoint.com/python_data_persistence/python_data_persistence_cassandra_driver.htm
 
 CQL Docs:
 https://cassandra.apache.org/doc/latest/cql/
